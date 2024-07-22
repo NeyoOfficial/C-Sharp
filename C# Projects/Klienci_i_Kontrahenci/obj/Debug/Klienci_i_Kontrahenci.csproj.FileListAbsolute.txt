@@ -1,0 +1,7 @@
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci\bin\Debug\Klienci_i_Kontrahenci.exe.config
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci\bin\Debug\Klienci_i_Kontrahenci.exe
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci\bin\Debug\Klienci_i_Kontrahenci.pdb
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci\obj\Debug\Klienci_i_Kontrahenci.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci\obj\Debug\Klienci_i_Kontrahenci.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci\obj\Debug\Klienci_i_Kontrahenci.exe
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci\obj\Debug\Klienci_i_Kontrahenci.pdb
