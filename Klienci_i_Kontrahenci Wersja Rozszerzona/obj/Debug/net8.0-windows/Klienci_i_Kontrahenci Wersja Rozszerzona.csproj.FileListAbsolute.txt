@@ -1,0 +1,16 @@
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci_Wersja_Rozszerzona.Form1.resources
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.AssemblyInfo.cs
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\bin\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.exe
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\bin\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.deps.json
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\bin\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.runtimeconfig.json
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\bin\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.dll
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\bin\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.pdb
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.dll
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\refint\Klienci_i_Kontrahenci Wersja Rozszerzona.dll
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.pdb
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\Klienci_i_Kontrahenci Wersja Rozszerzona.genruntimeconfig.cache
+C:\Users\Damian\Desktop\C# Projects\Klienci_i_Kontrahenci Wersja Rozszerzona\obj\Debug\net8.0-windows\ref\Klienci_i_Kontrahenci Wersja Rozszerzona.dll
