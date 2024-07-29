@@ -1,0 +1,16 @@
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.Form1.resources
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.AssemblyInfo.cs
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\bin\Debug\net8.0-windows\K_i_K_WinForm.exe
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\bin\Debug\net8.0-windows\K_i_K_WinForm.deps.json
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\bin\Debug\net8.0-windows\K_i_K_WinForm.runtimeconfig.json
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\bin\Debug\net8.0-windows\K_i_K_WinForm.dll
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\bin\Debug\net8.0-windows\K_i_K_WinForm.pdb
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.dll
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\refint\K_i_K_WinForm.dll
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.pdb
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\K_i_K_WinForm.genruntimeconfig.cache
+C:\Users\Damian\Desktop\C# Projects\K_i_K_WinForm\obj\Debug\net8.0-windows\ref\K_i_K_WinForm.dll
