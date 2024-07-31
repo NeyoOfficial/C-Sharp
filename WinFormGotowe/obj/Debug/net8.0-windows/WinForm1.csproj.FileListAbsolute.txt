@@ -1,0 +1,68 @@
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.Form1.resources
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.AssemblyInfo.cs
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\C# Win Form\bin\Debug\net8.0-windows\WinForm1.exe
+C:\Users\Damian\Desktop\C# Win Form\bin\Debug\net8.0-windows\WinForm1.deps.json
+C:\Users\Damian\Desktop\C# Win Form\bin\Debug\net8.0-windows\WinForm1.runtimeconfig.json
+C:\Users\Damian\Desktop\C# Win Form\bin\Debug\net8.0-windows\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form\bin\Debug\net8.0-windows\WinForm1.pdb
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\refint\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.pdb
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.genruntimeconfig.cache
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\ref\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form\obj\Debug\net8.0-windows\WinForm1.SzczegolyForm.resources
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.Form1.resources
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.SzczegolyForm.resources
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.AssemblyInfo.cs
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\refint\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.pdb
+C:\Users\Damian\Desktop\C# Win Form — kopia\bin\Debug\net8.0-windows\WinForm1.exe
+C:\Users\Damian\Desktop\C# Win Form — kopia\bin\Debug\net8.0-windows\WinForm1.deps.json
+C:\Users\Damian\Desktop\C# Win Form — kopia\bin\Debug\net8.0-windows\WinForm1.runtimeconfig.json
+C:\Users\Damian\Desktop\C# Win Form — kopia\bin\Debug\net8.0-windows\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form — kopia\bin\Debug\net8.0-windows\WinForm1.pdb
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\WinForm1.genruntimeconfig.cache
+C:\Users\Damian\Desktop\C# Win Form — kopia\obj\Debug\net8.0-windows\ref\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\bin\Debug\net8.0-windows\WinForm1.exe
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\bin\Debug\net8.0-windows\WinForm1.deps.json
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\bin\Debug\net8.0-windows\WinForm1.runtimeconfig.json
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\bin\Debug\net8.0-windows\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\bin\Debug\net8.0-windows\WinForm1.pdb
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.Form1.resources
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.SzczegolyForm.resources
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.AssemblyInfo.cs
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\refint\WinForm1.dll
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.pdb
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\WinForm1.genruntimeconfig.cache
+C:\Users\Damian\Desktop\C# Win Form — Prawie gotowe (Zrobić kopię)\obj\Debug\net8.0-windows\ref\WinForm1.dll
+C:\Users\Damian\Desktop\WinFormGotowe\bin\Debug\net8.0-windows\WinForm1.exe
+C:\Users\Damian\Desktop\WinFormGotowe\bin\Debug\net8.0-windows\WinForm1.deps.json
+C:\Users\Damian\Desktop\WinFormGotowe\bin\Debug\net8.0-windows\WinForm1.runtimeconfig.json
+C:\Users\Damian\Desktop\WinFormGotowe\bin\Debug\net8.0-windows\WinForm1.dll
+C:\Users\Damian\Desktop\WinFormGotowe\bin\Debug\net8.0-windows\WinForm1.pdb
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.Form1.resources
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.SzczegolyForm.resources
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.AssemblyInfo.cs
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.dll
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\refint\WinForm1.dll
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.pdb
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\WinForm1.genruntimeconfig.cache
+C:\Users\Damian\Desktop\WinFormGotowe\obj\Debug\net8.0-windows\ref\WinForm1.dll
